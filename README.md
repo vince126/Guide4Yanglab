@@ -12,6 +12,7 @@
 * [*NAS*](#nas)
 * [*Datasets overview*](#data)
 * [*SSH Connection*](#ssh)
+* [*Trello*](#trello)
 * [*Build Environment*](#env)
 * [*Remote Desktop*](#rm)
 * [*Matlab*](#rm)
@@ -90,6 +91,10 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 |NAS2| /media/NAS01 <br> /media/NAS02 |-| - |
 |NAS3| /media/NAS03 |-| - |
 |NAS4| /media/NAS04 |-| - |
+|NAS5| /media/NAS05 |-| - |
+|NAS6| /media/NAS06 |-| - |
+|NAS_CMR| /media/NAS_CMR |-| - |
+|NAS_CMR2| /media/NAS_CMR2 |-| - |
 
 
 * `Attention`: 
@@ -117,6 +122,7 @@ Zescaler:
 2. find the Zscaler client connector icon and selecting ‘Open Zscaler’
 3. log in as username@ic.ac.uk with your standard Imperial password
 4. Use ssh to connect to the workstation, please refer to `Teams` [*Path: Team notes*](https://imperiallondon.sharepoint.com/:o:/r/sites/AYangLab-WH/Shared%20Documents/General/Workstation%20Information/Workstations%20IP?d=w5bb99d8c2ed84f5db941abc50894f628&csf=1&web=1&e=zcrDjP)
+5. For other questions, please refer to `Unified Access in Imperial` [*Path: Unified Access*](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/unified-access/)
 
 Zerotier:
 1. install [zerotier](https://www.zerotier.com/download/)
@@ -124,6 +130,17 @@ Zerotier:
 3. email Ming Li (CC Dr Guang Yang) to authorize your zerotier connection
    (provide your zerotier address e.g., 530c509607)
 4. login workstation (ask corresponding administrator	to help you set up new account)
+
+---
+<br>
+<br>
+
+### <span id="trello" style="color:#2E86C1 ">*Share the trello board*</span>
+
+1. Register a Trello account using imperial email in [Trello](https://trello.com/)
+2. Find project management in the template and create a workspace and board from this templete
+3. Change the workspace and board name to PhD students (Your Name)
+4. Share this workspace to Dr Guang Yang's email
 
 ---
 <br>
