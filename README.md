@@ -58,6 +58,13 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 |yanglab6|-| - |
 |yanglab7|Yinzhe Wu| yinzhe.wu18@imperial.ac.uk |
 |yanglab8|Fanwen Wang| fanwen.wang@imperial.ac.uk |
+|yanglab9|-| - |
+|yanglab10|-| - |
+|yanglab11|-| - |
+|yanglab12|-| - |
+|yanglab13|-| - |
+|yanglab14|-| - |
+|yanglab15|-| - |
 |DistriM|Ming Li|ming.li@imperial.ac.uk|
 
 * check workstation IP in `Teams` [*Path: Files/Workstation Information*](https://teams.microsoft.com/_?culture=en-us&country=ww#/one/viewer/teamsSdk/https:~2F~2Fimperiallondon.sharepoint.com~2Fsites~2FAYangLab-WH~2FShared%20Documents~2FGeneral~2FWorkstation%20Information~2FWorkstations%20IP?threadId=19:f49b4c67b1894aff9ea2738829473de3@thread.tacv2&subEntityId=%257B%2522viewParams%2522%253A%2522id%253D%25252Fsites%25252FAYangLab%25252DWH%25252FShared%252520Documents%25252FGeneral%25252FWorkstation%252520Information%2526viewid%253D4a7c2a42%25252Da573%25252D433d%25252Da1ef%25252D21960f1d0619%2522%257D&baseUrl=https:~2F~2Fimperiallondon.sharepoint.com~2Fsites~2FAYangLab-WH&fileId=5bb99d8c-2ed8-4f5d-b941-abc50894f628&ctx=openFilePreview&viewerAction=view)
@@ -105,6 +112,13 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 
 ### <span id="ssh" style="color:#2E86C1 ">*SSH access to local workstations*</span>
 
+Zescaler:
+1. install [zescaler](https://uafiles.cc.ic.ac.uk/)
+2. find the Zscaler client connector icon and selecting ‘Open Zscaler’
+3. log in as username@ic.ac.uk with your standard Imperial password
+4. Use ssh to connect to the workstation, please refer to `Teams` [*Path: Team notes*](https://imperiallondon.sharepoint.com/:o:/r/sites/AYangLab-WH/Shared%20Documents/General/Workstation%20Information/Workstations%20IP?d=w5bb99d8c2ed84f5db941abc50894f628&csf=1&web=1&e=zcrDjP)
+
+Zerotier:
 1. install [zerotier](https://www.zerotier.com/download/)
 2. ask Dr Guang Yang for oral zerotier access permission
 3. email Ming Li (CC Dr Guang Yang) to authorize your zerotier connection
