@@ -135,7 +135,7 @@ Zerotier:
 <br>
 <br>
 
-### <span id="trello" style="color:#2E86C1 ">*Share the trello board*</span>
+## <span id="trello" style="color:#2E86C1 ">*Share the trello board*</span>
 
 1. Register a Trello account using imperial email in [Trello](https://trello.com/)
 2. Find project management in the template and create a workspace and board from this templete
